@@ -18,7 +18,7 @@ function displayWords(words) {
 
 function filterWords() {
     const query = searchInput.value.toLowerCase();
-    const filtered = swearWords.filter(w =>
+    const filtered = swearWords.filter(w =>)
         w.word.toLowerCase().includes(query) ||
         w.meaning.toLowerCase().includes(query) ||
         w.example.toLowerCase().includes(query)
