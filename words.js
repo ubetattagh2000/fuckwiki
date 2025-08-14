@@ -1,4 +1,5 @@
 const swearWords = [
+    { word: "Pasan", origin: "Sri Lanka", meaning: "Karima ballek;Vanacharayek", example: "Pasan ube ammatahukpn." },
     { word: "Arse", origin: "UK – Old English", meaning: "Buttocks; insult meaning idiot", example: "Get off your arse and help me." },
     { word: "Arsehole", origin: "UK", meaning: "Anus; obnoxious person", example: "Stop being such an arsehole." },
     { word: "Ass", origin: "US", meaning: "Buttocks; fool", example: "Don’t make an ass of yourself." },
